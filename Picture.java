@@ -169,7 +169,7 @@ public class Picture
             present3.moveHorizontal(100);
             present3.moveVertical(120);
             present3.changeSize(35);
-            present3.changeColor("red");
+            present3.changeColor("yellow");
             present3.makeVisible();
             
             present4.moveHorizontal(145);
@@ -232,7 +232,7 @@ public class Picture
         ornament7.changeColor("magenta");
         present1.changeColor("red");
         present2.changeColor("magenta");
-        present3.changeColor("red");
+        present3.changeColor("yellow");
         present4.changeColor("blue");
         
     }
