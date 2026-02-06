@@ -10,8 +10,10 @@ import java.util.*;
  *
  * @author: Bruce Quig
  * @author: Michael Kšlling (mik)
+ * 
+ * @modified by Brennen Lui added extra brown to setForegroundColor() method
  *
- * @version 2016.02.29
+ * @version 02.5.2026
  */
 public class Canvas
 {
